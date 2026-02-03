@@ -1,16 +1,34 @@
-# React + Vite
+# Smart Productivity Dashboard 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean productivity dashboard built using React.  
+This application helps users manage daily tasks, track progress, and stay focused with a minimal and responsive UI.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Add and delete tasks
+- Live progress indicator
+- Persistent data using LocalStorage
+- Clean dark-themed UI
+- Fully responsive design
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React
+- JavaScript
+- HTML & CSS
+- LocalStorage
 
-## React Compiler
+## 📌 How It Works
+Users can add tasks, remove completed ones, and visually track their productivity through a progress bar.  
+All data is stored locally, so tasks remain saved even after refreshing the page.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🎥 Demo Video
+Unlisted demo video link (added in hackathon submission).
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
+Deployed using Vercel.  
+(Add your live link here after deployment)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Inspiration
+The project was created to practice frontend development skills and build a simple, distraction-free productivity tool.
+
+## 📜 License
+This project is open-source and available for learning and personal use.
