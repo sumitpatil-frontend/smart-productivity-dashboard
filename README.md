@@ -15,7 +15,6 @@ React, JavaScript, HTML, CSS
 Tasks can be added, removed, and persist across refreshes. The progress bar reflects total tasks.
 
 ## 🚀 Live Demo
-*(Add Vercel live link once deployed)*
-
+https://sp-smart-dashboard.netlify.app/
 ## 📂 Repository
 https://github.com/sumitpatil-frontend/smart-productivity-dashboard
